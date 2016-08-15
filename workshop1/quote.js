@@ -32,7 +32,7 @@ document.getElementById("person").innerHTML = programmer + "s";
 var q = document.getElementById("quote");
 
 q.innerHTML =
-    "\"The " + musiian +
+    "\"The " + musician +
     ", like the poet, works everyday to improve its technique. He builds his " +
     music + " in the " + sense + ", of " + light + ", creating by " + exertion + " of the imagination.\"" +
     "\u2014" +  "Fred Brooks, " + programmer;
